@@ -51,8 +51,8 @@ const menu = [
     id: 7,
     title: "Oreo Milkshake",
     category: "shakes",
-    price: 18.99,
-    img: "./images/item-6.jpeg",
+    price: 5.99,
+    img: "./images/oreo2.png",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "bacon overflow",
     category: "breakfast",
     price: 8.99,
-    img: "./images/item-7.jpeg",
+    img: "./images/bacon.jpg",
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
